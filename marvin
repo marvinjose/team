@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>INTRO</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+ 	<div class="Navigation">	
+ 		<div class="logo">
+ 			<i class="lab la-apple"></i>
+ 		</div>
+ 		<span class="nav_title">Menu</span>
+ 		<ul>
+ 			<li class="nav_item">
+ 				<a href="#" class="nav_link">		
+ 					<i class="las la-tachometer-alt"></i>
+ 					<span>Dashboard</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-stream"></i>
+ 					<span>Products</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-dolly-flatbed"></i>
+ 					<span>Inventory</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-users"></i>
+ 					<span>Accounts</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-cogs"></i>
+ 					<span>Settings</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-user"></i>
+ 					<span>Profiles</span>
+ 				</a>
+ 			</li><li class="nav_item">
+ 				<a href="#" class="nav_link">
+ 					<i class="las la-sign-out-alt"></i>
+ 					<span>Signout</span>
+ 				</a>
+ 			</li>
+ 		</ul>
+ 	</div>
+ 	<div class="top_nav">
+ 		<form action="#" class="form_search">
+ 			<input type="search" name="search_field" placeholder="search....">
+ 			<i class="las la-search"></i>
+ 		</form>
+ 		<div class="top_links">
+ 			<a href="#" class="t_link">
+ 				<i class="las la-list"></i>
+ 				<span>order</span>
+ 			</a>
+ 		
+ 			<a href="#" class="t_link">
+ 				<i class="las la-list"></i>
+ 				<span>sales</span>
+ 			</a>
+
+ 			<a href="#" class="t_link">
+ 				<i class="las la-list"></i>
+ 				<span>return</span>
+ 			</a>
+ 		</div>
+ 		<div class="user_account">
+ 			<i class="las la-bell"></i>
+ 			<label class="username">carol</label>
+ 			<div class="user_image">
+ 				<img src="./images/carol.jfif" alt="user_image">
+
+ 	</div>
+</body>
+</html>
